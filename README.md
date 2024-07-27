@@ -15,7 +15,6 @@ The app runs locally and no logs are sent or stored anywhere.
 5. Run `npm run build` to build the compiled bundle that you'll find in the `build/` folder
 
 Any local server will do to run the built files.  
-It's also possible to download them directly from the [releases page](https://github.com/Pustur/whatsapp-chat-parser-website/releases).
 
 ## How to export WhatsApp chats
 
